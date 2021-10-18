@@ -1,68 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+e-commerce project
 
-## Available Scripts
+![1634577140718](https://user-images.githubusercontent.com/71228820/137786581-7e9fa569-80c1-4027-8dc8-6dc7e09121d1.jpg)
 
-In the project directory, you can run:
+![1634577156454](https://user-images.githubusercontent.com/71228820/137786592-b6b7657a-b1ec-45a7-b5bb-5aab4af49cb4.jpg)
 
-### `npm start`
+![1634577170719](https://user-images.githubusercontent.com/71228820/137786600-dca83fb3-48fa-42a1-b140-2fcf61965fe1.jpg)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![1634577189514](https://user-images.githubusercontent.com/71228820/137786606-f83cbd20-58c6-4c9c-a127-4babe7759cc8.jpg)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![1634578442854](https://user-images.githubusercontent.com/71228820/137786617-dbdb3bb8-cac2-435a-9ba7-6903d2605b5c.jpg)
 
-### `npm test`
+![1634578468223](https://user-images.githubusercontent.com/71228820/137786625-4f33d8a3-30ce-4e12-9ad7-705a950f2c85.jpg)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+line rich menu
+![1634578631388](https://user-images.githubusercontent.com/71228820/137786636-472b1f01-0072-47d7-ac25-a57b535d9e98.jpg)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+LIFF - LINE
+![222704324_506701053926970_2172691331342340432_n](https://user-images.githubusercontent.com/71228820/137786646-903763d1-2c4f-4425-afdb-f89b11634b4f.jpg)
