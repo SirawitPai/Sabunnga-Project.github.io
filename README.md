@@ -1,29 +1,68 @@
-# Sabunnga-Project.github.io
- E-Commerce Project
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Web Sabunnga
-![1634577140718](https://user-images.githubusercontent.com/71228820/137785502-a057bc2f-f892-4f89-8aa4-5a7cd72e2362.jpg)
+## Available Scripts
 
+In the project directory, you can run:
 
-![1634577156454](https://user-images.githubusercontent.com/71228820/137785513-155e8321-dc14-423b-a1d8-9dc2e01baf3b.jpg)
+### `npm start`
 
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-![1634577170719](https://user-images.githubusercontent.com/71228820/137785526-c7bae509-6e15-4406-90de-391f4ec1459d.jpg)
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
+### `npm test`
 
-![1634577189514](https://user-images.githubusercontent.com/71228820/137785541-a3811b06-2a0d-49d1-b110-f31e27d2562b.jpg)
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-![1634578442854](https://user-images.githubusercontent.com/71228820/137785561-4fc43294-af3f-4964-945c-e561eb038c42.jpg)
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-![1634578468223](https://user-images.githubusercontent.com/71228820/137785580-c0b7c326-7fa7-4f15-81b7-224336f2c305.jpg)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-rich menu - LINE
+### `npm run eject`
 
-![1634578631388](https://user-images.githubusercontent.com/71228820/137785625-69baf8a9-e89e-4157-97a0-bb39f88369d2.jpg)
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-LIFF - LINE 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-![222704324_506701053926970_2172691331342340432_n](https://user-images.githubusercontent.com/71228820/137785641-4f77cc44-47e9-4c2d-9e9c-c9a00c4892c3.jpg)
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
