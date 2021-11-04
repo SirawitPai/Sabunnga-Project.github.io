@@ -1,4 +1,10 @@
-e-commerce project
+
+E-commerce project
+
+React + Node.js and Freabase (Cloud Firestore , Authentication , Cloud Storage , Functions ) , LINE BOT , LIFF , Dialogflow
+
+![1628257768681](https://user-images.githubusercontent.com/71228820/140405983-08b271dd-6763-4a9b-8fcc-b47a598112cc.jpg)
+
 
 ![1634577140718](https://user-images.githubusercontent.com/71228820/137786581-7e9fa569-80c1-4027-8dc8-6dc7e09121d1.jpg)
 
